@@ -1,0 +1,30 @@
+6AGM Non-Commercial Academic Research License
+
+Original code author: Fumiya Imamura.
+
+Scope
+This license applies to the original 6AGM code and accompanying documentation
+in this repository, including the code contained in 6AGMv1.zip (the "Software").
+It does not grant any additional rights to third-party materials, which remain
+subject to their own terms.
+
+Permission and conditions
+Permission is granted, free of charge, to use, copy, modify, and share the
+Software and modified versions solely for non-commercial academic research,
+subject to all of the following conditions:
+
+1. Retain all existing copyright and author-attribution notices, including the
+   attribution to Fumiya Imamura, and include this license with every copy or
+   redistribution of the Software or modified versions.
+2. Clearly identify any modifications when sharing a modified version.
+3. Copies and modified versions remain subject to these license terms.
+
+Any commercial use, or any other use outside non-commercial academic research,
+requires separate prior permission from the applicable rights holder(s).
+
+No warranty; use at your own risk
+The Software is provided "AS IS", without warranty of any kind, express or
+implied, including warranties of merchantability, fitness for a particular
+purpose, and non-infringement. Use is at your own risk. To the extent permitted
+by applicable law, the authors and rights holders are not liable for any claim,
+damage, or other liability arising from the Software or its use.
